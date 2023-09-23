@@ -1,6 +1,6 @@
-[submodule "bitirme-frontend"]
-	path = bitirme-frontend
-	url = https://github.com/LelonDelonMelon/bitirme-frontend
-[submodule "bitirme2"]
-	path = bitirme2
-	url = https://github.com/LelonDelonMelon/bitirme2
+[submodule "SecureDonationChain-backend"]
+	path = SecureDonationChain-backend
+	url = https://github.com/LelonDelonMelon/SecureDonationChain-backend
+[submodule "SDC-frontend"]
+	path = SDC-frontend
+	url = https://github.com/LelonDelonMelon/SDC-frontend
